@@ -1,88 +1,79 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Tyler Skalka
+Project Manager, System develoepr, Student.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="tyler.skalka@gmail.com">tyler.skalka@gmail.com</a>
+| <a href="https://github.com/Tskalka">My GitHub</a>
 </div>
 
+## Summary
+
+Results-oriented Software Developer with experience in Java and JavaScript. Proficient in operating Postman for making
+HTTP requests and API testing. Built processes with JSON to transfer data between applications
 
 ## Currently
 
-Standing on the shoulders of giants
+Project Manager - System Developers Brigham Young University Idaho Support Center | Rexburg,
+Idaho
 
-### Specialized in
+ - Managed work of 5 employees to ensure project deliverables were being met
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+ - Collaborated with other departments daily to create project requests
 
+ - Led weekly developer meetings to overview current projects and set team goals
 
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+ - Initiated and conducted weekly one-on-one interviews with team members, facilitating project and code reviews
+ to ensure effective progress and quality of deliverables
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`December 2024`
+__Bachelor of Science: Computer Science | Brigham Young University - Idaho |
+Rexburg, Idaho__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Programming with Classes
+- Programming with Data Structures
+- Parallelism and Concurrency
+- Machine Learning
 
-- Sizar
+## Certifications
 
-`1667 - death`
-__Trinity College, Cambridge__
+`July 2022`
+General Programming Certificate | Brigham Young University - Idaho |
+Rexburg, Idaho
+July 2022
 
-- Fellow
+- Applied well-developed design and problem-solving skills
+- Demonstrated a firm understanding of principles of programming and software design
+- Convert software requirement into code
+- Learned and applied new technology and techniques to programming using Python, HTML/CSS, C#
 
+`April 2019`
+Microsoft Office Specialist - Excel | Microsoft | Salt Lake City, Utah April 2019
 
+## Skills
 
-## Awards
+- Programming Languages: Java, JavaScript, Python, HTML, CSS
+- Object Oriented Programming
+- Rest APIs
+- Postman
+- Data Structures
+- Source and version control: Git, GitHub
+- Bilingual Spanish - Fluent
+- Strong interpersonal communication skills
+- Microsoft Office suite (Powerpoint, Word, Excel, Outlook, Teams)
 
-`2012`
-President, *Royal Society*, London, UK
+## Projects
+`April 2022 - July 2022`
+Configuration Manager | Android Mobile Application | Kotlin | Rexburg, Idaho 
 
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+- Developed an order of operations calculator with Android Studio and Kotlin
+- Managed version control technologies to integrate team's code operating Git and GitHub
+- Integrated Python and Java prototypes into Android Studio and Kotlin
 
 <!-- ### Footer
 
